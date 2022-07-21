@@ -49,11 +49,11 @@ features                                  :
 
   - title                                 : Local control
     description                           : Enable the "local control" feature to control the app on a nearby device.
-    fontawesome_icon_name                 : feed
+    fontawesome_icon_name                 : rss
 
   - title                                 : Tips
     description                           : Check the app’s Tips section to find the right settings for you.
-    fontawesome_icon_name                 : lightbulb-o
+    fontawesome_icon_name                 : lightbulb
 
 
 # Theme Settings
