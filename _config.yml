@@ -44,15 +44,15 @@ features                                  :
     fontawesome_icon_name                 : wrench
 
   - title                                 : Multi-device options
-    description                           : This app is available all Apple platforms and supports game controllers. Combine devices for extended experiences.
+    description                           : Combine devices, including game controllers, for extended bilateral stimulation options.
     fontawesome_icon_name                 : th
 
   - title                                 : Local control
-    description                           : Control the app on a nearby device, such as your client's.
+    description                           : Control the app on nearby devices, such as your client's.
     fontawesome_icon_name                 : rss
 
   - title                                 : Tips
-    description                           : Check the app’s Tips section to find the right settings for you.
+    description                           : Check the app’s Tips section to find which settings are right for you.
     fontawesome_icon_name                 : lightbulb
 
 
