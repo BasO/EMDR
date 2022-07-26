@@ -36,19 +36,19 @@ youtube_username                          :
 features                                  :
 
   - title                                 : The EMDR app
-    description                           : Tools to start an EMDR session whenever and wherever.
+    description                           : The ultimate tool to start an EMDR session, whether in your clinic or in the field.
     fontawesome_icon_name                 : tablet
     
   - title                                 : Options
-    description                           : Configure the app to your liking! All features follow the scientific literature on EMDR.
+    description                           : Configure the app to your liking, or stay with the science-based defaults.
     fontawesome_icon_name                 : wrench
 
   - title                                 : Multi-device options
-    description                           : This app is available all Apple platforms and supports game controllers. Combine devices for additional options
+    description                           : This app is available all Apple platforms and supports game controllers. Combine devices for extended experiences.
     fontawesome_icon_name                 : th
 
   - title                                 : Local control
-    description                           : Enable the "local control" feature to control the app on a nearby device.
+    description                           : Control the app on a nearby device, such as your client's.
     fontawesome_icon_name                 : rss
 
   - title                                 : Tips
